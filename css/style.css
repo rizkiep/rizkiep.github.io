@@ -1,0 +1,28 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+h2{
+  font-family: 'Open Sans', sans-serif;
+}
+.jumbotron{
+  padding: 2rem 1rem;
+}
+.about,.contact{
+  background-color: #f1f1f1;
+}
+.about p{
+  font-weight: 400;
+}
+.about .btn:hover{
+  background-color:#6C757D;
+  cursor:default;
+}
+footer{
+  height: 80px;
+}
+.jumbotron{
+  padding-top: 5rem !important;
+}
+section{
+  padding-top: 4rem;
+}
